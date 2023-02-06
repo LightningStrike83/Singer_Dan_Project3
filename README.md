@@ -16,7 +16,7 @@ TODO: Write usage instructions
 
 ## History
 
-02/05/22- Created the repo, added initial stylings, demonstrated knowledge
+02/05/22- Created the repo, added initial stylings, added in boxes to specifications
 
 ## Credits
 

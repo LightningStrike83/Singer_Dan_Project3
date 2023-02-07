@@ -29,4 +29,4 @@ Readme image credit to: https://makeameme.org/meme/so-you-know-d6hyf5
 
 MIT  
 
-![Condescending Wonka on media queries](images/wonka_media_queries.jpg)
+![Condescending Wonka on media queries](images/wonka_media_queries.jpg)  

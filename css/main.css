@@ -9,13 +9,13 @@
 
 #column1 {
     background-color: pink;
-    width: 100%;
+    width: auto;
     height: 100px;
 }
 
 #column2 {
     background-color: red;
-    width: 100%;
+    width: auto;
     height: 100px;
 }
 
